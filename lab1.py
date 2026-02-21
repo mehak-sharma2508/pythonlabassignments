@@ -1,4 +1,4 @@
-# Program to store employee details and calculate salary
+# Program to store employee details and calculate salary.
 
 # Input employee details
 name = input("Enter Employee Name: ")
